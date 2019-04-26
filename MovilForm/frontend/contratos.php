@@ -133,7 +133,7 @@ session_start();
                   resultado.innerHTML+=`
                       <tr> 
                       <td> ${dato.NombreContrato} </td>
-                      <td> ${dato.id}  </td>
+                      <td> ${dato.DireccionContrato}  </td>
                       <td> ${dato.NombreContacto} </td>
                       <td> ${dato.TelefonoContacto}  </td>
                       <td> ${dato.Email}</td>
